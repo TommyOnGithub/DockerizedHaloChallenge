@@ -2,6 +2,9 @@ Coding Challenge from Halo
 
 This app was developed with python 2.7 on MacBook running macOS High Sierra.
 
+I've kept the Flask development server in place, but in a prod setting
+  I would use a real web server like Apache or Nginx.
+
 The application runs on localhost:8000
 
 #####################################################################
